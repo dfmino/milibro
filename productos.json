@@ -1,0 +1,97 @@
+{
+    "status": "OK",
+    "code": 200,
+    "total": 2,
+    "data": [
+        {
+            "id": 1,
+            "name": "Galletas Sal",
+            "description": "Quae veritatis corrupti veritatis alias et pariatur. Similique nam deleniti cum. Est deleniti et magni hic. Omnis porro excepturi natus quia.",
+            "ean": "1042335105691",
+            "upc": "916266019579",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Quos enim consequatur quos.",
+                    "description": "Dolores ex tempora tenetur id animi delectus. Sed impedit neque sunt consectetur in dolores atque. Hic ipsa quam nemo facere quam officiis. Quia magnam ipsam provident.",
+                    "url": "http://placeimg.com/640/480/any"
+                },
+                {
+                    "title": "Rerum sit et at.",
+                    "description": "Facere blanditiis enim ut veritatis aut aut enim voluptatem. Aliquam laboriosam saepe praesentium praesentium voluptatibus. Magni aut ut quibusdam natus id expedita.",
+                    "url": "http://placeimg.com/640/480/any"
+                },
+                {
+                    "title": "Eos quibusdam ipsa maxime at.",
+                    "description": "Nihil vel non omnis veritatis voluptatibus quos. Officiis quia aliquam et ipsam ad. Beatae atque quo velit ratione dolor. Qui earum eligendi provident praesentium voluptatem.",
+                    "url": "http://placeimg.com/640/480/any"
+                }
+            ],
+            "net_price": 30069999.13,
+            "taxes": 22,
+            "price": "1.25",
+            "categories": [
+                2,
+                5,
+                8,
+                4
+            ],
+            "tags": [
+                "occaecati",
+                "ipsa",
+                "eveniet",
+                "vel",
+                "quisquam",
+                "sed",
+                "natus",
+                "animi",
+                "et"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Yogurt Tonni",
+            "description": "Laboriosam quis sunt eos reiciendis repudiandae. Dolores odit asperiores necessitatibus provident. Qui tempora iure quibusdam est eaque sit dolorem.",
+            "ean": "8638364463388",
+            "upc": "196967096330",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Soluta iste non ipsum quia.",
+                    "description": "Quod eius voluptate sit iure sed. Et ratione non eum voluptate. Aut aut consectetur velit ex reprehenderit consectetur iure molestiae. Non distinctio est iste.",
+                    "url": "http://placeimg.com/640/480/any"
+                },
+                {
+                    "title": "Ut est ea minima velit.",
+                    "description": "Dolorum sunt dolore non aliquam voluptatibus soluta. Eum temporibus qui dolorem fugit. Vel et nihil delectus ipsum. Facilis et ut non harum occaecati sed officia.",
+                    "url": "http://placeimg.com/640/480/any"
+                },
+                {
+                    "title": "Sed dolores amet dolorum et.",
+                    "description": "Enim temporibus omnis tenetur vel voluptates. Totam soluta et enim exercitationem. Et minima quo et nemo est sed.",
+                    "url": "http://placeimg.com/640/480/any"
+                }
+            ],
+            "net_price": 7444.49,
+            "taxes": 22,
+            "price": "0.85",
+            "categories": [
+                9,
+                1,
+                4,
+                8,
+                2
+            ],
+            "tags": [
+                "tempora",
+                "earum",
+                "et",
+                "modi",
+                "atque",
+                "vel",
+                "tempore",
+                "odit"
+            ]
+        }
+    ]
+}
